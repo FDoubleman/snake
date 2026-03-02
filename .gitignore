@@ -5,5 +5,8 @@ __pycache__/
 venv/
 .env
 *.egg-info/
-dist/
 build/
+dist/
+.packtmp/
+installer/output/
+*.spec.bak
